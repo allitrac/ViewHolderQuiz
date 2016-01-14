@@ -4,4 +4,30 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+
+
+    <string name="batman">Batman v Superman: Dawn of Justice</string>
+    <string name="warcraft">WarCraft</string>
+    <string name="Deadpool">Deadpool</string>
+    <string name="Suicide_Squad">Suicide Squad</string>
+    <string name="Jungle_Book">The Jungle Book</string>
+    <string name="Star_Trek">Star Trek Beyond</string>
+    <string name="alice">Alice in Wonderland: Through the Looking Glass</string>
+    <string name="Conjuring">The Conjuring 2</string>
+    <string name="Huntsman">The Huntsman</string>
+    <string name="Gods_Egypt">Gods of Egypt</string>
+
+    <string name="batman_desc">Mankind faces a new threat as Batman (Ben Affleck) embarks on a personal vendetta against Superman (Henry Cavill).</string>
+    <string name="warcraft_desc">A feud between Captain America (Chris Evans) and Iron Man (Robert Downey Jr.) leaves the Avengers in turmoil.</string>
+    <string name="Deadpool_desc">Fleeing their dying home to colonize another, fearsome orc warriors invade the peaceful realm of Azeroth.</string>
+    <string name="Suicide_Squad_desc">Supervillains accept a secret government mission that will likely result in their deaths.</string>
+    <string name="Jungle_Book_desc">After a fearsome tiger threatens his life, Mowgli (Neel Sethi), a boy raised by wolves, leaves his jungle home and, guided by a stern panther (Ben Kingsley) and a free-spirited bear (Bill Murray), sets out on a journey of self-discovery.</string>
+    <string name="Star_Trek_desc">Stranded on a hostile planet, Capt. Kirk (Chris Pine), Spock (Zachary Quinto) and the rest of the Enterprise crew face an alien threat.</string>
+    <string name="alice_desc">Alice (Mia Wasikowska) travels back in time to save the Mad Hatter (Johnny Depp).</string>
+    <string name="Conjuring_desc">The Conjuring 2, also known under the working title of The Conjuring 2: The Enfield Poltergeist, is an upcoming American supernatural horror film directed by James Wan. The film was written by Carey Hayes, Chad Hayes, Wan, and David Leslie Johnson.</string>
+    <string name="Huntsman_desc">When Freya (Emily Blunt), a young queen who can freeze her enemies in ice, learns of the demise of her sister, the evil Ravenna (Charlize Theron), she summons her soldiers to recover the Magic Mirror. After resurrecting Ravenna, the two wicked sisters amass a seemingly indestructible army that threatens the kingdom. Only the skills of Eric (Chris Hemsworth) and Sara (Jessica Chastain), two warriors who defied Freya by falling in love, can save this enchanted land from the forces of darkness.</string>
+    <string name="Gods_Egypt_desc">The survival of mankind hangs in the balance when Set (Gerard Butler), the merciless god of darkness, usurps Egypt's throne and plunges the prosperous empire into chaos and conflict. Hoping to save the world and rescue his true love, a defiant mortal named Bek (Brenton Thwaites) forms an unlikely alliance with the powerful god Horus (Nikolaj Coster-Waldau). Their battle against Set and his henchmen takes them into the afterlife and across the heavens for an epic confrontation.</string>
+
+
+
 </resources>
